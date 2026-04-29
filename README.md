@@ -112,11 +112,10 @@ A área sombreada representa a probabilidade de uma variável assumir valores en
 <br><br>
 
 
+<a id="credito"></a>
 ## Crédito e Risco
 [↑ - Discurso](#creditodiscurso)
 
-
-<a id="credito"></a>
 - **Crédito** 
     - **15 anos de experiência prática em** 
 
@@ -205,10 +204,10 @@ A área sombreada representa a probabilidade de uma variável assumir valores en
 
 <br><br>
 
+<a id="senior"></a>
 ## Senioridade
 [↑ - Discurso](#seniordiscurso)
 
-<a id="senior"></a>
 - **Moacir Magalhães**
     - Minha senioridade vem da combinação de: 
         - Visão de Negócio, 
