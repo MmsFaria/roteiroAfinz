@@ -1,5 +1,6 @@
+<a id="topo"></a>  
 # Roteiro de Afinz — Machine Learning, Dados e Crédito
-Para orientação da entrevistas.
+Documento de referência com minha experiência em Dados, Crédito, Risco e Machine Learning.
 
 
 ## Discurso de apresentação
@@ -278,6 +279,4 @@ A área sombreada representa a probabilidade de uma variável assumir valores en
 
 
 <br><br>
-
-
-<details>
+[↑ - Topo](#topo)
