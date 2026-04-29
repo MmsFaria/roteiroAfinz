@@ -91,6 +91,23 @@ Para orientação da entrevistas.
 | Tuning | Ajustar hiperparâmetros | “**Melhorar performance com ajustes finos.**” <br><br> “Tenho prática com tuning usando GridSearch e RandomSearch em exercícios e projetos de estudo.” | - GridSearchCV <br> - RandomizedSearchCV <br> - Ajustes de: <br> --profundidade, <br> --learning rate, <br> -- número de árvores <br> - Regularização (L1/L2) | - **Scikit-Learn** <br> (GridSearchCV, RandomizedSearchCV) <br> - **XGBoost / CatBoost** <br> (parâmetros avançados) |
 | Interpretação | Explicar o modelo | “**Traduzir o modelo para o negócio.**” <br><br> “Minha experiência em storytelling analítico me ajuda a traduzir resultados de modelos para áreas de negócio.” | - SHAP values <br> - Feature importance <br> - Permutation importance <br> - Partial dependence plots <br> - Tradução para áreas de negócio | - **SHAP** <br> - **Scikit-Learn** <br> (permutation importance) |
 
+<br>
+
+### Exemplo visual — Distribuição Normal e Z-score
+
+A interpretação estatística é essencial para entender padronização, outliers e comportamento de variáveis.  
+A imagem abaixo ilustra o conceito de probabilidade como área sob a curva:
+
+![Distribuição Normal e Z-score](z-score.jpeg)
+
+A área sombreada representa a probabilidade de uma variável assumir valores entre *a* e *b*.  
+
+- Esse conceito é a base para:
+    - cálculo de Z‑score,
+    - identificação de valores extremos,
+    - avaliação de risco,
+    - normalização de variáveis para modelos de ML.
+
 
 <br><br>
 
