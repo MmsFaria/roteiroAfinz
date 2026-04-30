@@ -1,5 +1,5 @@
 <a id="topo"></a>  
-# Roteiro de Afinz — Machine Learning, Dados e Crédito
+# Perfil Profissional | Machine Learning, Dados e Crédito
 Documento de referência com minha experiência em Dados, Crédito, Risco e Machine Learning.
 
 
