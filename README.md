@@ -44,7 +44,7 @@ Documento de referência com minha experiência em Dados, Crédito, Risco e Mach
 <br>
 
 <a id="mldiscurso"></a>
-- **Sobre [machine learning](#etapas)**, 
+- **Sobre [Machine Learning](#etapas)**, 
 
     - **eu domino o ciclo completo**: 
         - preparação de dados, 
@@ -66,7 +66,7 @@ Documento de referência com minha experiência em Dados, Crédito, Risco e Mach
 <br>
 
 <a id="creditodiscurso"></a>
-- "Minha **experiência em [crédito e risco](#credito)** é prática, profunda e construída ao longo de 15 anos de atuação direta.”  
+- "Minha **experiência em [Crédito e Risco](#credito)** é prática, profunda e construída ao longo de 15 anos de atuação direta.”  
 **Isso me dá uma visão clara e rápida sobre**: 
     - quais variáveis fazem sentido, 
     - como interpretar resultados e 
@@ -80,9 +80,21 @@ Documento de referência com minha experiência em Dados, Crédito, Risco e Mach
 
 <br><br>
 
+
+<br>
+
+# Apêndice
+---
+
+<br>
+
 <a id="etapas"></a>
 ## Machine Learning → 🧠📊 
 [↑ - Discurso](#mldiscurso)
+<details>
+<summary> 👆 Etapas ML </summary> 
+
+<br>
 
 | Etapas ML | O que é | Como explicar | Incluí | Ferramentas |
 |-|-|-|-|-|
@@ -92,9 +104,15 @@ Documento de referência com minha experiência em Dados, Crédito, Risco e Mach
 | Tuning | Ajustar hiperparâmetros | “**Melhorar performance com ajustes finos.**” <br><br> “Tenho prática com tuning usando GridSearch e RandomSearch em exercícios e projetos de estudo.” | - GridSearchCV <br> - RandomizedSearchCV <br> - Ajustes de: <br> --profundidade, <br> --learning rate, <br> -- número de árvores <br> - Regularização (L1/L2) | - **Scikit-Learn** <br> (GridSearchCV, RandomizedSearchCV) <br> - **XGBoost / CatBoost** <br> (parâmetros avançados) |
 | Interpretação | Explicar o modelo | “**Traduzir o modelo para o negócio.**” <br><br> “Minha experiência em storytelling analítico me ajuda a traduzir resultados de modelos para áreas de negócio.” | - SHAP values <br> - Feature importance <br> - Permutation importance <br> - Partial dependence plots <br> - Tradução para áreas de negócio | - **SHAP** <br> - **Scikit-Learn** <br> (permutation importance) |
 
-<br>
+</details>
 
-### Exemplo visual — Distribuição Normal e Z-score
+<br><br>
+
+## Estátistica → 📊📈 
+<details>
+<summary> 👆 Exemplo visual — Distribuição Normal e Z-score </summary> 
+
+<br>
 
 A interpretação estatística é essencial para entender padronização, outliers e comportamento de variáveis.  
 A imagem abaixo ilustra o conceito de probabilidade como área sob a curva:
@@ -109,13 +127,18 @@ A área sombreada representa a probabilidade de uma variável assumir valores en
     - avaliação de risco,
     - normalização de variáveis para modelos de ML.
 
+</details>
 
 <br><br>
 
 
 <a id="credito"></a>
-## Crédito e Risco
+## Crédito e Risco → 💲
 [↑ - Discurso](#creditodiscurso)
+<details>
+<summary> 👆 Experiência/knowHow </summary> 
+
+<br>
 
 - **Crédito** 
     - **15 anos de experiência prática em** 
@@ -200,7 +223,7 @@ A área sombreada representa a probabilidade de uma variável assumir valores en
 > - inadimplência e 
 > - qualidade da carteira.  
 
-
+</details>
 
 
 <br><br>
@@ -208,6 +231,9 @@ A área sombreada representa a probabilidade de uma variável assumir valores en
 <a id="senior"></a>
 ## Senioridade
 [↑ - Discurso](#seniordiscurso)
+<details>
+<summary> 👆 Interseção entre dados, crédito e análise. </summary> 
+
 
 - **Moacir Magalhães**
     - Minha senioridade vem da combinação de: 
@@ -276,7 +302,7 @@ A área sombreada representa a probabilidade de uma variável assumir valores en
 > “Minha senioridade está na interseção entre dados, crédito e análise. <br>
 > Machine Learning é uma evolução natural do que já faço.”
     
-
+</details>
 
 <br><br>
 [↑ - Topo](#topo)
