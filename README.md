@@ -92,7 +92,7 @@ Documento de referência com minha experiência em Dados, Crédito, Risco e Mach
 ## Machine Learning → 🧠📊 
 [↑ - Discurso](#mldiscurso)
 <details>
-<summary> 👆 Etapas ML </summary> 
+<summary> 👉 Etapas ML </summary> 
 
 <br>
 
@@ -110,7 +110,7 @@ Documento de referência com minha experiência em Dados, Crédito, Risco e Mach
 
 ## Estátistica → 📊📈 
 <details>
-<summary> 👆 Exemplo visual — Distribuição Normal e Z-score </summary> 
+<summary> 👉 Exemplo visual — Distribuição Normal e Z-score </summary> 
 
 <br>
 
@@ -136,7 +136,7 @@ A área sombreada representa a probabilidade de uma variável assumir valores en
 ## Crédito e Risco → 💲
 [↑ - Discurso](#creditodiscurso)
 <details>
-<summary> 👆 Experiência/knowHow </summary> 
+<summary> 👉 Experiência/knowHow </summary> 
 
 <br>
 
@@ -229,10 +229,10 @@ A área sombreada representa a probabilidade de uma variável assumir valores en
 <br><br>
 
 <a id="senior"></a>
-## Senioridade
+## Senioridade → 🦉
 [↑ - Discurso](#seniordiscurso)
 <details>
-<summary> 👆 Interseção entre dados, crédito e análise. </summary> 
+<summary> 👉 Interseção entre dados, crédito e análise. </summary> 
 
 
 - **Moacir Magalhães**
